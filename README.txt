@@ -78,3 +78,5 @@ Para poder tener acceso al proyecto y ejecutarlo correctamente, es necesario ten
                 -------------
 
 Estos comandos instalarán las bibliotecas necesarias y sus dependencias para ejecutar el proyecto. Si ya tienes instaladas algunas de estas bibliotecas pero necesitas actualizarlas a las últimas versiones, puedes utilizar el comando `pip install --upgrade` seguido del nombre de la biblioteca que deseas actualizar.
+
+Este proyecto sigue abierto, por lo cual iré subiendo actualizaciones del mismo.
